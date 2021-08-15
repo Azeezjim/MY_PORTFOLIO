@@ -126,6 +126,17 @@ h2{
 #projects h2 {
     margin:0 20%;
 }
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: none;
+    border-radius: .25rem;
+}
 
 footer p {
     padding: 30px 30px;
